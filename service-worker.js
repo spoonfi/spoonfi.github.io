@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4a6d9f1678847795c553ac129d7ff187.js"
+  "/precache-manifest.3e401356520d6a208e40cc95b54f8e6d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "akitafinance"});
